@@ -1,5 +1,5 @@
 # bigbangtheory
-This is for Big Bang Theory
+This is for Big Bang Theory,
 Firstly run the sheldon1 programme using gdb command and after disassemble the main programme and then can be see the memory address with disassembly codes inside the programme.
 
 ![capture1](https://user-images.githubusercontent.com/43548400/76679187-4ca4ea00-6604-11ea-935b-9b69096564e3.png)
